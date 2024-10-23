@@ -30,4 +30,4 @@ Xora is a simple AI video app landing page built with React and Tailwind CSS. Th
 2. Open your browser and navigate to `http://localhost:5173`.
 
 ## Live Project URL
-You can view the live project at: [Your Live Project URL](https://cliplyai.netlify.app/)
+You can view the live project at: [Live Project URL](https://cliplyai.netlify.app/)

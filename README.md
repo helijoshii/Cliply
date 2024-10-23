@@ -1,7 +1,7 @@
 # AI Video Editor landing page
 
 ## Description
-A simple AI video app landing page built with React and Tailwind CSS. This app features a stunning user interface and focuses solely on the landing page, with no additional pages or backend integration.
+Xora is a simple AI video app landing page built with React and Tailwind CSS. This app features a stunning user interface and focuses solely on the landing page, with no additional pages or backend integration.
 
 ## Technologies Used
 - **React**: For building the landing page
